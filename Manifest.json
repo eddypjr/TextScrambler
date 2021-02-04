@@ -1,0 +1,14 @@
+{
+    "manifest_version": 2,
+    "name": "Can I see what this does, I saw it on stack...",
+    "version": "1.0",
+    "description": "Delivers an infuriating browsing experience",
+    
+     "background": {"persisten": false},
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["WebText.js"]
+      }
+    ]  
+  }

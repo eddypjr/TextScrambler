@@ -1,0 +1,73 @@
+/*
+-------------------------------------TERRIBILE IDEAS ONLY ---------------------------------------------------------------//
+
+MOST FUN TO DO:
+7.replacing adds with memes / art
+  -extension, user can articulate themes. 
+
+13. Anti-user experience:
+  -14. replace CTRL-F searched for words with the wrong words 
+    - more useful, approx word searches
+  - 25. oppressive captcha, unsolvable  
+  -19. convert all display of USD to BTC
+
+  -23. translates all text into dyslexic 
+        - or translate in other devious ways 
+      list all currencies in non native
+  22. inverts all colors
+  24. add attack, you have to click through 2001 internet style pop adds.
+
+
+
+
+TEXT SCRAMBLER:
+
+  - get text 
+  ** kim + eddy -> grab HTML file from past project to test if he can access text
+  ** 
+  **
+  - scramble text:
+  **
+  **
+  **
+  - return text:
+  **
+  **
+  **n
+
+ 
+  
+
+way to scramble
+  -
+main.js - > 
+
+html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
